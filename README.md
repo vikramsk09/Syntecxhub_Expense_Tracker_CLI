@@ -27,14 +27,14 @@ Expense-Tracker-CLI/
 ├── README.md
 
 ⚙️ Installation
-- 1️⃣ Clone the Repository
-git clone https://github.com/your-username/expense-tracker-cli.git
-- 2️⃣ Navigate to the Project Folder
-cd expense-tracker-cli
-- 3️⃣ Install Required Libraries
-pip install pandas matplotlib
-- ▶️ How to Run the Project
+1️⃣ Clone the Repository
+- git clone https://github.com/your-username/expense-tracker-cli.git
+2️⃣ Navigate to the Project Folder
+- cd expense-tracker-cli
+3️⃣ Install Required Libraries
+- pip install pandas matplotlib
 
+▶️ How to Run the Project
 *Run the following command in the terminal:
 - python expense_tracker.py
 - You will see the CLI menu:
@@ -47,30 +47,30 @@ pip install pandas matplotlib
 5. Exit
 
 📊 Functionality
-- 1️⃣ Add Entry
+1️⃣ Add Entry
 1. Allows users to add a new income or expense record including:
 2. Date
 3. Type (income/expense)
 4. Category
 5. Amount
 
-- 2️⃣ Monthly Summary
+2️⃣ Monthly Summary
 Displays:
 - Total Income
 - Total Expense
 - Savings for the selected month.
 
-- 3️⃣ Export Monthly Report
-1. Exports the monthly data into:
-2. CSV file
-3. Excel file
+3️⃣ Export Monthly Report
+- Exports the monthly data into:
+1. CSV file
+2. Excel file
 
 *Example output files:
 - 2026-03_report.csv
 - 2026-03_report.xlsx
 
-- 4️⃣ Export Expense Chart
-Generates a pie chart showing expense distribution by category and saves it as:
+4️⃣ Export Expense Chart
+- Generates a pie chart showing expense distribution by category and saves it as:
 
 - 2026-03_expense_chart.png
 📁 Data Storage
