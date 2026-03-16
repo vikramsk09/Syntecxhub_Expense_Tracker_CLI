@@ -27,10 +27,13 @@ Expense-Tracker-CLI/
 ├── README.md
 
 ⚙️ Installation
+
 1️⃣ Clone the Repository
 - git clone https://github.com/your-username/expense-tracker-cli.git
+
 2️⃣ Navigate to the Project Folder
 - cd expense-tracker-cli
+
 3️⃣ Install Required Libraries
 - pip install pandas matplotlib
 
@@ -47,6 +50,7 @@ Expense-Tracker-CLI/
 5. Exit
 
 📊 Functionality
+
 1️⃣ Add Entry
 1. Allows users to add a new income or expense record including:
 2. Date
